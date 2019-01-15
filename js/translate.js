@@ -14,8 +14,8 @@ function TransMod(){
 	library["en"]["translatable.profile-info"] = "Highly efficient, result driven Software Developer with proven track record of designing and developing high quality Python modules, application development, and data analysis. Leverage expertise in troubleshooting, debugging, and implementing software code with existing or developed systems. Actively participate in all phases of the lifecycle of software application development. Thrive in a multi-disciplinary, diverse, and dynamic team environment. Proactive, self-motivated with strong sense of ownership and business-facing communication skills.";
 	library["en"]["translatable.skills"] = "Skills";
 	library["en"]["translatable.gis"] = "Geographic Information Systems (GIS)";
-	library["en"]["translatable.ml"] = "Machine Learning";
-	library["en"]["translatable.lib"] = "Tkinter, Pandas and Arcpy";
+	library["en"]["translatable.ml"] = "Python";
+	library["en"]["translatable.lib"] = "Numpy, Pandas and Arcpy";
 	library["en"]["translatable.sql"] = "Basic SQL";
 	library["en"]["translatable.fullname"] = "Full Name";
 	library["en"]["translatable.fname"] = "Christopher Carr";
@@ -67,8 +67,8 @@ function TransMod(){
 	library["pl"]["translatable.profile-info"] = "Wysoce produktywny, nastawiony na wyniki Programista z popartymi dowodami osiągnięciami w projektowaniu i rozwijaniu wysokiej jakości modułów Pythona, rozwoju aplikacji oraz analizie danych. Wiedza fachowa w rozwiązywaniu problemów, debugowaniu oraz implementacji kodu programowego w istniejących bądź rozwijanych systemach. Aktywny udział we wszystkich fazach cyklu życia rozwoju aplikacji oprogramowania. Praca w wielodyscyplinarnym, różnorodnym oraz dynamicznym zespole to jego żywioł. Aktywny, zmotywowany, o silnym poczuciu odpowiedzialności oraz zdolnościach komunikacyjnych w środowisku biznesowym.";
 	library["pl"]["translatable.skills"] = "Umiejętności";
 	library["pl"]["translatable.gis"] = "Systemy Informacji Geograficznej (GIS)";
-	library["pl"]["translatable.ml"] = "Uczenie Maszynowe";
-	library["pl"]["translatable.lib"] = "Biblioteki Tkinter, Pandas i Arcpy";
+	library["pl"]["translatable.ml"] = "Python";
+	library["pl"]["translatable.lib"] = "Biblioteki Numpy, Pandas i Arcpy";
 	library["pl"]["translatable.sql"] = "Podstawy SQL";
 	library["pl"]["translatable.fullname"] = "Pełne imię i nazwisko";
 	library["pl"]["translatable.fname"] = "Krzysztof Jacyk";
